@@ -1,0 +1,1 @@
+# Segmentation of Solar Panels in Satellite Images and Annotation of Solar Panels using Self Supervised Learning
