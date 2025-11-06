@@ -1,4 +1,8 @@
-solar-dataset
+dataset
 segmented-solar-dataset
+solar-dataset
+tiled-dataset
+encoder-simclr.ipynb
+moco_encoder_best.pth
 sam_vit_h_4b8939.pth
 skipped images.txt
